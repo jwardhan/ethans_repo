@@ -16,5 +16,8 @@ def multiply(x,y):
  return x*y
 def divide(x,y):
   pass
+<<<<<<< HEAD
 def divide(x,y)
   returm x/y
+
+>>>>>>> F1
